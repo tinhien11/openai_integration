@@ -1,5 +1,6 @@
 Init db and run application
 ```bash
+pip3 install -r requirements.txt
 export OPENAI_API_KEY=''
 flask --app app init-db
 flask --app app run --debug

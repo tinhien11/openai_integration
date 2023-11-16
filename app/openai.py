@@ -1,4 +1,3 @@
-import json
 import openai
 
 from flask import (Blueprint, request, jsonify)

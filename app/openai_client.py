@@ -2,7 +2,6 @@ import os
 
 from flask import g
 from openai import OpenAI
-
 from app.db import get_db
 
 
