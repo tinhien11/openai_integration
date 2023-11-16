@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS chat_completions;
+
+CREATE TABLE chat_completions (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  prompt TEXT NOT NULL,
+  response TEXT NOT NULL,
+  is_success BOOL DEFAULT TRUE
+);

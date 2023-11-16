@@ -1,0 +1,13 @@
+# Python django
+*.pyc
+__pycache__
+db.sqlite3
+
+venv
+env/
+instance/
+
+#IDE
+.DS_Store
+.idea
+*~
