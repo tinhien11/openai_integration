@@ -20,8 +20,8 @@ curl --location 'http://127.0.0.1:5000/openai-completion' \
 ```
 
 ### Rubric:
-API Functionality (30%): Done
-OpenAI API Integration (30%): Done
-Database Logging (20%): Done
-Edge Case and Error Handling (10%): Done
-Code Quality and Documentation (10%): Done
+API Functionality (30%): Done  
+OpenAI API Integration (30%): Done  
+Database Logging (20%): Done  
+Edge Case and Error Handling (10%): Done  
+Code Quality and Documentation (10%): Done  
